@@ -1,4 +1,4 @@
-# 将域名指向本地开发（内网穿透）
+# 内网穿透 - 将域名指向本地开发
 
 ##参考
 [https://gist.github.com/fnando/1101211](https://gist.github.com/fnando/1101211)
